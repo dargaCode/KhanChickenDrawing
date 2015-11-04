@@ -1,5 +1,6 @@
 # Khan Academy - Chicken Drawing
-(Javascript + Processing.js) Originally completed 5/11/2015
+<strong>Javascript + Processing.js
+Originally completed 5/11/2015</strong>
 
 Moving and sizing shapes for Hour of Code. I like this guy.
 
