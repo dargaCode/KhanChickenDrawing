@@ -1,0 +1,50 @@
+
+/*GENERAL*/
+
+body {
+  background: #333333;
+  color: #ffffff;
+  font-family: "helvetica", sans-serif;
+  font-size: 18px;
+  text-align: center;
+  margin: 0;
+  padding: 3% 0 0;
+}
+
+.container {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+canvas {
+  margin: 0;
+  padding: 0;
+}
+
+/*INSTRUCTIONS*/
+
+.instructions {
+  margin-bottom: 40px;
+  color: #eeeeee;
+}
+
+/*FOOTER*/
+
+footer {
+  color: #a5a5a5;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+footer a {
+  color: #8c8cd9;
+  text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
